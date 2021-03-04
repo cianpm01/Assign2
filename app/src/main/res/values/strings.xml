@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CS HW2</string>
+
+    <string-array name="numbers" >
+        <item> "Style One"</item>
+        <item>"Style Two"</item>
+        <item>"Style Three"</item>
+
+    </string-array>
+
+</resources>
